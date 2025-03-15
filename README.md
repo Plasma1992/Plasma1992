@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*    💬About me:
+💬About me:
 -  I'm a 32 y.o. Argentinean living in Croatia.
 
 *    🌱I’m currently learning:
