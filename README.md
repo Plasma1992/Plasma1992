@@ -4,11 +4,11 @@
 I'm a 32 y.o. Argentinean living in Croatia.
 
 *    🌱I’m currently learning:
-Data Analytics at Turing College 👨‍💻.
+-  Data Analytics at Turing College 👨‍💻.
 
 *    ⚡My hobbies are:
-Spending time with my lovely family.
-Reading about investing and the stock market.
+-  Spending time with my lovely family.
+-  Reading about investing and the stock market.
 earning languages (now limited to Croatian, for obvious reasons!).
 Sports + training + running
 
