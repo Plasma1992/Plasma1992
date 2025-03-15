@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 *    💬About me:
-I'm a 32 y.o. Argentinean living in Croatia.
+-  I'm a 32 y.o. Argentinean living in Croatia.
 
 *    🌱I’m currently learning:
 -  Data Analytics at Turing College 👨‍💻.
@@ -9,16 +9,16 @@ I'm a 32 y.o. Argentinean living in Croatia.
 *    ⚡My hobbies are:
 -  Spending time with my lovely family.
 -  Reading about investing and the stock market.
-earning languages (now limited to Croatian, for obvious reasons!).
-Sports + training + running
+-  Learning languages (now limited to Croatian, for obvious reasons!).
+-  Sports + training + running
 
 *    👨‍💻Languages & Tools in my toolbox 🛠:
-SQL > BigQuery and MySQL.
-Tableau, PowerBI.
-MS Excel + Office.
-Google Sheets.
-Python.
-Visual Studio Code.
+-  SQL > BigQuery and MySQL.
+-  Tableau, PowerBI.
+-  MS Excel + Office.
+-  Google Sheets.
+-  Python.
+-  Visual Studio Code.
 
 
 <!--
