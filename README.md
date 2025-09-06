@@ -1,4 +1,4 @@
-![Pandas](https://github.com/user-attachments/assets/83292b3d-c935-4e3e-bd9c-b2e6f13bcda3)# Welcome! 👋
+# Welcome! 👋
 
 ### 💬About me:
 -  I'm a 32 y.o. Argentinean living in Croatia.
