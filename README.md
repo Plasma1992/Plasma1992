@@ -26,6 +26,8 @@
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/BigQuery.png"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/Avaya.png"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/Tableau.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/MSOffice.png"/>
+
 
 
 
