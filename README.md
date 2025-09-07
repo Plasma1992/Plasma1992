@@ -15,14 +15,14 @@
 <hr>
 
 ### 🛠 Languages & Tools:
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="excel1.png"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="MySQL.png"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="Python.png"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="Pandas.png"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="NumPy.png"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="Matplotlib.png"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="GoogleCloud.png"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="VScode.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/Excel.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/MySQL.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/Python.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/Pandas.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/NumPy.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/Matplotlib.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/GoogleCloud.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="icons/VScode.png"/>
 
 
 
