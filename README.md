@@ -17,8 +17,12 @@
 ### 🛠 Languages & Tools:
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="excel1.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="MySQL.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="Python.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="Pandas.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="NumPy.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="Matplotlib.png"/>
 
 
 
