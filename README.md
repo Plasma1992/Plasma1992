@@ -1,17 +1,15 @@
 # Welcome! 👋
 
 ### 💬About me:
--  I'm a 32 y.o. Argentinean living in Croatia.
+My name is Javier, I’m 32 years old and I’m from Argentina, though I’m currently living in Zagreb. Some years ago, I came to Europe with the idea of traveling around, and have different working experiences in some countries, and when I came to Croatia, I decided to stay for the girl that now is my wife and the mother of my babies.
+
+Recently, I've decided to make a change in my life and learn something new, something that has always been interesting to me and started my journey in the Data Analytics field. I'm passionate about statistics, I like working with data and being able to extract useful insights and make data-driven decisions.
 
 ### 🌱I’m currently learning:
--  Data Analytics at Turing College 👨‍💻.
+-  Looking for my next challenge 👨‍💻.
 
-### ⚡My hobbies are:
--  Spending time with my lovely family.
--  Reading about investing and the stock market.
--  Learning languages (now limited to Croatian, for obvious reasons!).
--  Sports + training + running
-
+### ⚡My projects:
+<a href="https://github.com/Plasma1992/CourseraProject"><span style="background-color: yellow;">Coursera Project</span></a> | Coming soon... | 
 <hr>
 
 ### 🛠 Languages & Tools:
