@@ -9,7 +9,7 @@ Recently, I've decided to make a change in my life and learn something new, some
 -  Looking for my next challenge 👨‍💻.
 
 ### ⚡My projects:
-<a href="https://github.com/Plasma1992/CourseraProject"><span style="background-color: yellow;">Coursera Project</span></a> | Coming soon... | 
+<a href="https://github.com/Plasma1992/CourseraProject"><span style="background-color: yellow;">Coursera Project</span></a> | <a href="https://github.com/Plasma1992/SpotifyProject"><span style="background-color: red;">Spotify Project</span></a> | Coming soon... | 
 <hr>
 
 ### 🛠 Languages & Tools:
