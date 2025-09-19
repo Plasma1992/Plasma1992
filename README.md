@@ -1,12 +1,12 @@
 # Welcome! 👋
 
 ### 💬About me:
-My name is Javier, I’m 32 years old and I’m from Argentina, though I’m currently living in Zagreb. Some years ago, I came to Europe with the idea of traveling around, and have different working experiences in some countries, and when I came to Croatia, I decided to stay for the girl that now is my wife and the mother of my babies.
+My name is Javier, I’m 32 years old and I’m from Argentina, though I’m currently living in Zagreb. Some years ago, I came to Europe with the idea of traveling around, and have different working experiences in some countries, and when I came to Croatia, I decided to stay for the girl that is now my wife and the mother of my kids.
 
-Recently, I've decided to make a change in my life and learn something new, something that has always been interesting to me and started my journey in the Data Analytics field. I'm passionate about statistics, I like working with data and being able to extract useful insights and make data-driven decisions.
+Recently, I've decided to make a change in my life and learn something new, something that has always been interesting to me and started my journey in the Data Analytics field. I'm passionate about statistics, I like working with data and being able to extract useful insights and make data-driven decisions. Here you can see the courses I've taken by now.
 
 ### 🌱I’m currently learning:
--  Looking for my next challenge 👨‍💻.
+-  Financial Analysis on Udemy platform 👨‍💻.
 
 ### ⚡My projects:
 <a href="https://github.com/Plasma1992/CourseraProject"><span style="background-color: yellow;">Coursera EDA</span></a> | <a href="https://github.com/Plasma1992/SpotifyProject"><span style="background-color: red;">Spotify EDA</span></a> | <a href="https://github.com/Plasma1992/ChessAssistant"><span style="background-color: yellow;">Python Chess Assistant</span></a> | Coming soon... | 
